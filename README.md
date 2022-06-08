@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Spandan das Barman
+- 👋 Hi, I’m Spandan Das Barman
 - 🔥 I am currently a ... Third Year Engineering Student
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Spring Boot and React Js
