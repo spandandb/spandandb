@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Spandan Das Barman
-- 🔥 I am currently a ... Third Year Engineering Student
+- 🔥 I am currently a ... Final Year Engineering Student
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... Spring Boot and React Js
 - 💞️ I’m looking to collaborate on ... Projects
